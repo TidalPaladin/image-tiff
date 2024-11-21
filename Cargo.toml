@@ -27,3 +27,7 @@ criterion = "0.3.1"
 [[bench]]
 name = "lzw"
 harness = false
+
+[[bench]]
+name = "packbits"
+harness = false
